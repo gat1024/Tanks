@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/explosion4.png-33bbfe4a7bebaae712385bd5fb4a3642.stex"
+
+[deps]
+
+source_file="res://Assets/TDTanks/PNG/Default size/explosion4.png"
+source_md5="fb154d6532124f68dfea0bfe048b60b8"
+
+dest_files=[ "res://.import/explosion4.png-33bbfe4a7bebaae712385bd5fb4a3642.stex" ]
+dest_md5="1efa3d326ffc8bf3d3d8a5562d8c4bc8"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

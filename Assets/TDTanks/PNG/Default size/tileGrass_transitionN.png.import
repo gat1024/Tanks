@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/tileGrass_transitionN.png-d11c73d0528ed0a10ab7828c81d2c0d7.stex"
+
+[deps]
+
+source_file="res://Assets/TDTanks/PNG/Default size/tileGrass_transitionN.png"
+source_md5="890f1534ddbc4a3edc2fcc002bad4f70"
+
+dest_files=[ "res://.import/tileGrass_transitionN.png-d11c73d0528ed0a10ab7828c81d2c0d7.stex" ]
+dest_md5="4d75421cb588022afe9ae664d184db83"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

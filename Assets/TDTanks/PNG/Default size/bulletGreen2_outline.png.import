@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/bulletGreen2_outline.png-53c9404778f2f4280fa9ab4f5754d292.stex"
+
+[deps]
+
+source_file="res://Assets/TDTanks/PNG/Default size/bulletGreen2_outline.png"
+source_md5="6ac73d6ae95239069b5a511014fddcaf"
+
+dest_files=[ "res://.import/bulletGreen2_outline.png-53c9404778f2f4280fa9ab4f5754d292.stex" ]
+dest_md5="1b2e5fd6d52255b728648012a7a2d8fa"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

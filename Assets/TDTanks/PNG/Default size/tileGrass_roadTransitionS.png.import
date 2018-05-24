@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/tileGrass_roadTransitionS.png-23d5601c1088b2c2b37f60866c99208a.stex"
+
+[deps]
+
+source_file="res://Assets/TDTanks/PNG/Default size/tileGrass_roadTransitionS.png"
+source_md5="2871b34cba7052fbd56b15a15dd0719c"
+
+dest_files=[ "res://.import/tileGrass_roadTransitionS.png-23d5601c1088b2c2b37f60866c99208a.stex" ]
+dest_md5="5bd2386cc97ef9f467d7fcfe9605e00f"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

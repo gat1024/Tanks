@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/tankDark_barrel1.png-258a9bb7f6e91312b530cfcba07fa062.stex"
+
+[deps]
+
+source_file="res://Assets/TDTanks/PNG/Default size/tankDark_barrel1.png"
+source_md5="9fa7a22baa25bb9b977a6e7d82026287"
+
+dest_files=[ "res://.import/tankDark_barrel1.png-258a9bb7f6e91312b530cfcba07fa062.stex" ]
+dest_md5="e4812c0ce16c6b0c7b99e432f976898c"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/tankSand_barrel2.png-d22fb35817a3c232140a1a2487d2b401.stex"
+
+[deps]
+
+source_file="res://Assets/TDTanks/PNG/Default size/tankSand_barrel2.png"
+source_md5="b2c483f08cbd7f070baa622c086ff13c"
+
+dest_files=[ "res://.import/tankSand_barrel2.png-d22fb35817a3c232140a1a2487d2b401.stex" ]
+dest_md5="a024b710f5281efac485beaf9e665b3a"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

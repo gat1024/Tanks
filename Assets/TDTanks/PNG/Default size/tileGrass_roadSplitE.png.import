@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/tileGrass_roadSplitE.png-e35a22a06bdfb553b09cc768d1617a28.stex"
+
+[deps]
+
+source_file="res://Assets/TDTanks/PNG/Default size/tileGrass_roadSplitE.png"
+source_md5="acfd5e8ea64a8285d11316ed71b569b0"
+
+dest_files=[ "res://.import/tileGrass_roadSplitE.png-e35a22a06bdfb553b09cc768d1617a28.stex" ]
+dest_md5="4587d0f1334395ea5f932d08a8b22ce9"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

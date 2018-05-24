@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/bulletRed3.png-232847890a6d8d38b5b534d1a4a3055d.stex"
+
+[deps]
+
+source_file="res://Assets/TDTanks/PNG/Default size/bulletRed3.png"
+source_md5="169890f6a99aa50f1d434103c1f6d0b7"
+
+dest_files=[ "res://.import/bulletRed3.png-232847890a6d8d38b5b534d1a4a3055d.stex" ]
+dest_md5="88c70297c8ba386220264f9438e47ded"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

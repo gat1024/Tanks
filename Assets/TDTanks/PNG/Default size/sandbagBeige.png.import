@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/sandbagBeige.png-4a05d02f6f6b198fe9f391c593de4704.stex"
+
+[deps]
+
+source_file="res://Assets/TDTanks/PNG/Default size/sandbagBeige.png"
+source_md5="916c4f986b41aed203f32e9d32b10eb1"
+
+dest_files=[ "res://.import/sandbagBeige.png-4a05d02f6f6b198fe9f391c593de4704.stex" ]
+dest_md5="e8809b1393d5dadc3ee8c998724d0ffa"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

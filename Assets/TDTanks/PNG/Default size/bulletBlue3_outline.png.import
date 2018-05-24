@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/bulletBlue3_outline.png-a85cf90ea4c94716a4b07eadda76b69c.stex"
+
+[deps]
+
+source_file="res://Assets/TDTanks/PNG/Default size/bulletBlue3_outline.png"
+source_md5="3641ca1a4182bfa3bdf138a05b6f44d2"
+
+dest_files=[ "res://.import/bulletBlue3_outline.png-a85cf90ea4c94716a4b07eadda76b69c.stex" ]
+dest_md5="f84bd40b26342f5d0c18f38230f2ff34"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

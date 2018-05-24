@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/tileGrass_roadCornerUR.png-8728b8f0fd823fe094c5b4a653ede982.stex"
+
+[deps]
+
+source_file="res://Assets/TDTanks/PNG/Default size/tileGrass_roadCornerUR.png"
+source_md5="bb1473ea6978ac807889e775cf440c0a"
+
+dest_files=[ "res://.import/tileGrass_roadCornerUR.png-8728b8f0fd823fe094c5b4a653ede982.stex" ]
+dest_md5="48115c90188a908e9834ea3f61798e41"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

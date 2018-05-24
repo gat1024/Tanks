@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/shotLarge.png-611c152a2f66375c3329422eb20bb59b.stex"
+
+[deps]
+
+source_file="res://Assets/TDTanks/PNG/Default size/shotLarge.png"
+source_md5="a07e9efe4cdc438ccfaeaef5af184a16"
+
+dest_files=[ "res://.import/shotLarge.png-611c152a2f66375c3329422eb20bb59b.stex" ]
+dest_md5="6e38b5ba0c16a7cca5478b74eec8b8e9"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

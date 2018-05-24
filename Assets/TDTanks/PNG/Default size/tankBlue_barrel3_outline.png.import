@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/tankBlue_barrel3_outline.png-fafced010b18dc5eb3edf775ff02069b.stex"
+
+[deps]
+
+source_file="res://Assets/TDTanks/PNG/Default size/tankBlue_barrel3_outline.png"
+source_md5="5ed4138d5db628126c22f16ddd82747b"
+
+dest_files=[ "res://.import/tankBlue_barrel3_outline.png-fafced010b18dc5eb3edf775ff02069b.stex" ]
+dest_md5="a81a1985a30b7707be86877584ff072c"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

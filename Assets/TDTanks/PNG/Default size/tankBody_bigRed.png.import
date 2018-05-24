@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/tankBody_bigRed.png-50958be769a825aee6f78546737a105d.stex"
+
+[deps]
+
+source_file="res://Assets/TDTanks/PNG/Default size/tankBody_bigRed.png"
+source_md5="40db7084d372aaf38fe8c2a89683a2f5"
+
+dest_files=[ "res://.import/tankBody_bigRed.png-50958be769a825aee6f78546737a105d.stex" ]
+dest_md5="e5049e9a967e77c8dc74c15a98fca2ff"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0
